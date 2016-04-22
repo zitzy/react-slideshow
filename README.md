@@ -9,7 +9,7 @@ Checkout this repository, install depedencies, then start the webpach with the f
 
 ```
 	> git clone https://github.com/zitzy/react-slideshow.git
-	> cd reactSlideshow
+	> cd react-slideshow
 	> npm install
 	> npm start
 ```
