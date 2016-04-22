@@ -21,3 +21,7 @@ Download repository as the .zip file.  Extract the contents of the zip file, the
 	> npm install
 	> npm start
 ```
+
+
+#### Based on ####
+[Here] (https://github.com/chenglou/react-motion) this guy is pretty awesome
